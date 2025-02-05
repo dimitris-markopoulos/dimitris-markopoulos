@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**dimitris-markopoulos/dimitris-markopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Dimitris Markopoulos, an aspiring Data Scientist & Quantitative Researcher passionate about applying ML & AI to Financial Markets.
 
 🔬 Research Interests:
