@@ -3,14 +3,19 @@
 <!--
 **dimitris-markopoulos/dimitris-markopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Dimitris Markopoulos, an aspiring Data Scientist & Quantitative Researcher passionate about applying ML & AI to Financial Markets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Research Interests:
+
+Large Language Models (LLMs) in Finance
+Algorithmic Trading & Market Prediction
+Statistical Modeling & Time Series Forecasting
+
+🛠 Tech Stack:
+Python, R, SQL
+PyTorch, TensorFlow, Scikit-learn
+API Integration, Cloud Computing
+
+📚 Education:
+💡 M.S. in Statistics | Columbia University (Graduating Dec 2025)
+💡 B.Sc. in Applied Mathematics and Statistics | Stony Brook University
