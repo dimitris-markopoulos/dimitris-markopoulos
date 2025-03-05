@@ -20,4 +20,4 @@ API Integration, Cloud Computing<br><br>
 
 💡 M.S. in Statistics | Columbia University (Graduating Dec 2025)
 
-💡 B.Sc. in Applied Mathematics and Statistics | Stony Brook University
+💡 B.S. in Applied Mathematics and Statistics | Stony Brook University
