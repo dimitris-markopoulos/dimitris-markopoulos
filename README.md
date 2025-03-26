@@ -6,7 +6,9 @@ Large Language Models (LLMs) in Finance
 
 Algorithmic Trading & Market Prediction
 
-Statistical Modeling & Time Series Forecasting<br><br>
+Statistical Modeling & Time Series Forecasting
+
+Financial & Statistical Machine Learning<br><br>
 
 🛠 Tech Stack:<br><br>
 
