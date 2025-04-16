@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=dimitris-markopoulos&color=brightgreen)
+
 I am Dimitris Markopoulos, an aspiring Data Scientist & Quantitative Researcher passionate about applying ML & AI to Financial Markets.<br><br>
 
 🔍 Research Interests:<br><br>
