@@ -1,4 +1,9 @@
-![Profile views](https://komarev.com/ghpvc/?username=dimitris-markopoulos&color=brightgreen)
+![Profile views](https://komarev.com/ghpvc/?username=dimitris-markopoulos&color=brightgreen&label=Profile%20views)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 
 <h1 align="center">Dimitris Markopoulos's Github</h1>
 
@@ -39,6 +44,10 @@ Connect With Me <br>
 [LinkedIn](https://www.linkedin.com/in/dimitris-markopoulos)  
 [GitHub](https://github.com/dimitris-markopoulos)  
 dimitris.markopoulos@columbia.edu  
+
+![GitHub followers](https://img.shields.io/github/followers/dimitris-markopoulos?label=Followers&style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/dimitris-markopoulos/latent-semantic-clustering?style=social)
+![GitHub Repo forks](https://img.shields.io/github/forks/dimitris-markopoulos/quantitative-finance?style=social)
 
 ---
 
