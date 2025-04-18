@@ -50,7 +50,7 @@ dimitris.markopoulos@columbia.edu
 
 ---
 
-> *"Averaged over all possible data-generating distributions, every classification algorithm has the same error rate."
+> *"Averaged over all possible data-generating distributions, every classification algorithm has the same error rate."<br>
 — David H. Wolpert, No Free Lunch Theorems for Optimization*
 
 
