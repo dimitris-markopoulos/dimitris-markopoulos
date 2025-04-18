@@ -1,5 +1,4 @@
 ![Profile views](https://komarev.com/ghpvc/?username=dimitris-markopoulos&color=brightgreen&label=Profile%20views)
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
