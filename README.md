@@ -6,7 +6,7 @@
 
 <h1 align="center">Dimitris Markopoulos's Github</h1>
 
-<p align="center"><em>Machine Learning • Quantitative Finance • Statistical Research</em></p>
+<p align="center"><em>Machine Learning • Quantitative Finance </em></p>
 
 🎓 M.A. in **Statistics** at **Columbia University** (4.25/4.33)  
 🎓 B.S. in **Applied Mathematics & Statistics** from **Stony Brook University** (3.98/4.0)
