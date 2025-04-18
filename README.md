@@ -9,7 +9,7 @@
 
 ---
 
-| 🧪 Project | 💡 Summary |
+| Project | Summary |
 |-----------|------------|
 | [`latent-semantic-clustering`](https://github.com/dimitris-markopoulos/latent-semantic-clustering) | UMAP + EM-GMM clustering of book chapters via NLP frequency vectors |
 | [`mnist-image-classification`](https://github.com/dimitris-markopoulos/mnist-image-classification) | Comparing Lasso, Naive Bayes, Ridge, SVM, and Group Lasso |
@@ -22,10 +22,10 @@ Dimensionality Reduction & Feature Analysis: PCA, UMAP, t-SNE, Spectral Embeddin
 Unsupervised Learning & Clustering: KMeans++, Gaussian Mixture Models (GMM), Spectral Clustering, Hierarchical Clustering <br>   
 
 <br>
-Languages: Python, R, SQL, MATLAB  <br>
+Languages: Python (primary), SQL, R, MATLAB  <br>
 Libraries: PyTorch, TensorFlow, scikit-learn, XGBoost, Numpy, Pandas, Statsmodels  <br>
 Visualization: Matplotlib, Seaborn, Streamlit  <br>
-Workflow: Jupyter, Git, Google Colab (w/ gpu), LaTeX  <br>
+Workflow: Workflow: VSCode + Jupyter Notebooks, Git/GitHub, Google Colab (for GPU compute), LaTeX <br>
 Infra: Azure, APIs, GitHub Actions<br>
 
 <br>
@@ -34,11 +34,11 @@ Infra: Azure, APIs, GitHub Actions<br>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40px" style="background-color:#1e1e1e; border-radius: 10px; padding: 2px;" />
 </p>
 
-<br>
-Connect With Me<br>
-- [LinkedIn](https://www.linkedin.com/in/dimitris-markopoulos)<br>
-- [GitHub](https://github.com/dimitris-markopoulos)<br>
-- dimitris.markopoulos@columbia.edu<br>
+
+Connect With Me <br>
+[LinkedIn](https://www.linkedin.com/in/dimitris-markopoulos)  
+[GitHub](https://github.com/dimitris-markopoulos)  
+dimitris.markopoulos@columbia.edu  
 
 ---
 
