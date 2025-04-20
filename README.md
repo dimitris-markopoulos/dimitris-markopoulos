@@ -17,7 +17,7 @@
 |-----------|------------|
 | [`latent-semantic-clustering`](https://github.com/dimitris-markopoulos/latent-semantic-clustering) | UMAP + EM-GMM clustering of book chapters via NLP frequency vectors |
 | [`mnist-image-classification`](https://github.com/dimitris-markopoulos/mnist-image-classification) | Comparing Lasso, Naive Bayes, Ridge, SVM, and Group Lasso |
-| [`quantitative-finance`](https://github.com/dimitris-markopoulos/quantitative-finance) | BSM & Heston option pricing, Monte Carlo simulations, Greeks |
+| [`quantitative-finance`](https://github.com/dimitris-markopoulos/quantitative-finance) | BSM & Heston option pricing, Monte Carlo simulations, VaR, Algo Trading, etc |
 | `sepsis-prediction` | Applied ML pipeline to using CUMC + NYP secure patient-level data; HIPAA-compliant experiments using **Azure Secure Environment** |
 
 <br>
