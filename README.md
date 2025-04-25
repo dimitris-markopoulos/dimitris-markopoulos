@@ -15,9 +15,10 @@
 
 | Project | Summary |
 |-----------|------------|
+| [`algorithmic-trading`](https://github.com/dimitris-markopoulos/algorithmic-trading) | Systematic trading pipelines using ML and time-series cross-validation |
 | [`latent-semantic-clustering`](https://github.com/dimitris-markopoulos/latent-semantic-clustering) | UMAP + EM-GMM clustering of book chapters via NLP frequency vectors |
 | [`mnist-image-classification`](https://github.com/dimitris-markopoulos/mnist-image-classification) | Comparing Lasso, Naive Bayes, Ridge, SVM, and Group Lasso |
-| [`quantitative-finance`](https://github.com/dimitris-markopoulos/quantitative-finance) | BSM & Heston option pricing, Monte Carlo simulations, VaR, Algo Trading, etc |
+| [`quantitative-finance`](https://github.com/dimitris-markopoulos/quantitative-finance) | BSM & Heston option pricing, Monte Carlo simulations, VaR, etc |
 | `sepsis-prediction` | Applied ML pipeline to CUMC + NYP secure patient-level dataset; HIPAA-compliant experiments using **Azure Secure Environment**; certified. |
 | [`crime-predictor-analysis`](https://github.com/dimitris-markopoulos/crime-predictor-analysis) | Predicting crime using UCI community features; LASSO, Ridge, Elastic Net, kernel regression + manually implemented CV |
 
