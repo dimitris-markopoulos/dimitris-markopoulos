@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Dimitris Markopoulos's Github</h1>
+<h1 align="center">Dimitris Markopoulos' Github</h1>
 
 <p align="center"><em>Machine Learning • Quantitative Finance </em></p>
 
