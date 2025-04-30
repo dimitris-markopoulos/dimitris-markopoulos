@@ -15,6 +15,7 @@
 
 | Project | Summary |
 |-----------|------------|
+| [`trees-ensembles-neural-networks`]([https://github.com/dimitris-markopoulos/algorithmic-trading](https://github.com/dimitris-markopoulos/trees-ensembles-neural-networks)) | Current Working Project |
 | [`algorithmic-trading`](https://github.com/dimitris-markopoulos/algorithmic-trading) | Systematic trading pipelines using ML and time-series cross-validation |
 | [`latent-semantic-clustering`](https://github.com/dimitris-markopoulos/latent-semantic-clustering) | UMAP + EM-GMM clustering of book chapters via NLP frequency vectors |
 | [`mnist-image-classification`](https://github.com/dimitris-markopoulos/mnist-image-classification) | Comparing Lasso, Naive Bayes, Ridge, SVM, and Group Lasso |
