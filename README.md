@@ -23,6 +23,16 @@
 | [`crime-predictor-analysis`](https://github.com/dimitris-markopoulos/crime-predictor-analysis) | Predicting crime using UCI community features; LASSO, Ridge, Elastic Net, kernel regression + manually implemented CV |
 | `sepsis-prediction` | Cleaned & merged using SQL, then applied ML pipeline to CUMC + NYP secure patient-level dataset; HIPAA-compliant experiments using **Azure Secure Environment**; certified. |
 
+---
+
+| Role | Company | Date |
+|-----------|------------|------------|
+| Quantitative Researcher | ExodusPoint Capital Management | Jun 2025 – Present |
+| Data Analyst | Columbia University Business School | Jan 2025 – Present |
+| Expert Contributor (Statistics) | Snorkel AI | Jan 2025 – Apr 2025 |
+| Teaching Assistant | Stony Brook University | Jun 2023 – Dec 2023 |
+
+
 <br>
 Supervised Learning & Statistical Modeling: LASSO, Ridge, Elastic Net, Logistic Regression, LDA, ARIMA, Group Lasso,  etc <br>
 Dimensionality Reduction & Feature Analysis: PCA, UMAP, t-SNE, Spectral Embedding, MDS, NMF, Kernel PCA <br> 
@@ -54,5 +64,4 @@ dimitris.markopoulos@columbia.edu
 
 > *"Averaged over all possible data-generating distributions, every classification algorithm has the same error rate."<br>
 — David H. Wolpert, No Free Lunch Theorems for Optimization*
-
 
