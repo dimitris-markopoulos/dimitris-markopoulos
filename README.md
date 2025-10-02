@@ -40,7 +40,7 @@ Infra: Azure, APIs, GitHub Actions<br>
 
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,github,vscode,matlab,pytorch,latex,anaconda,azure" />
+  <img src="https://skillicons.dev/icons?i=python,r,github,vscode,matlab,pytorch,latex,anaconda,azure,docker" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40px" style="background-color:#1e1e1e; border-radius: 10px; padding: 2px;" />
 </p>
 
