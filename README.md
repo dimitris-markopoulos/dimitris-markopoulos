@@ -50,8 +50,6 @@ Infra: Azure, APIs, GitHub Actions<br>
 dimitris.markopoulos@columbia.edu  
 
 ![GitHub followers](https://img.shields.io/github/followers/dimitris-markopoulos?label=Followers&style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/dimitris-markopoulos/latent-semantic-clustering?style=social)
-![GitHub Repo forks](https://img.shields.io/github/forks/dimitris-markopoulos/quantitative-finance?style=social)
 
 ---
 
