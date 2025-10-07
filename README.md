@@ -16,6 +16,7 @@
 | Project | Summary |
 |-----------|------------|
 | [`xrt-trading-case-study`](https://dimitris-markopoulos.github.io/xrt-trading-case-study/report.html) | Built and backtested deviation- and volatility-based trading strategies on XRT, analyzing hit rates, Sharpe ratios, and robustness, concluding no persistent alpha after risk adjustments. |
+| [`tcga-brca-analysis`](https://dimitris-markopoulos.github.io/tcga-brca-analysis/) | Unsupervised analysis of TCGA Breast Cancer (BRCA) gene-expression data |
 | [`trees-ensembles-neural-networks`](https://github.com/dimitris-markopoulos/trees-ensembles-neural-networks) | Decision trees, boosting, and neural networks on UCI income data with tuning, overfitting analysis, and feature interpretation. |
 | [`algorithmic-trading`](https://github.com/dimitris-markopoulos/algorithmic-trading) | Systematic trading pipelines using ML and time-series cross-validation |
 | [`latent-semantic-clustering`](https://github.com/dimitris-markopoulos/latent-semantic-clustering) | UMAP + EM-GMM clustering of book chapters via NLP frequency vectors |
