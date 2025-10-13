@@ -33,7 +33,7 @@ Dimensionality Reduction & Feature Analysis: PCA, UMAP, t-SNE, Spectral Embeddin
 Unsupervised Learning & Clustering: KMeans++, Gaussian Mixture Models (GMM), Spectral Clustering, Hierarchical Clustering <br>   
 
 <br>
-Languages: Python (primary), SQL, R, MATLAB  <br>
+Languages: Python, SQL, HTML, R, MATLAB  <br>
 Libraries: PyTorch, TensorFlow, scikit-learn, XGBoost, Numpy, Pandas, Statsmodels  <br>
 Visualization: Plotly, Matplotlib, Seaborn, Streamlit  <br>
 Workflow: VSCode, Git/GitHub, Google Colab (for GPU compute), LaTeX <br>
