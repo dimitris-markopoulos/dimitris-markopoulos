@@ -35,7 +35,7 @@ Unsupervised Learning & Clustering: KMeans++, Gaussian Mixture Models (GMM), Spe
 <br>
 Languages: Python (primary), SQL, R, MATLAB  <br>
 Libraries: PyTorch, TensorFlow, scikit-learn, XGBoost, Numpy, Pandas, Statsmodels  <br>
-Visualization: Matplotlib, Seaborn, Streamlit  <br>
+Visualization: Plotly, Matplotlib, Seaborn, Streamlit  <br>
 Workflow: VSCode, Git/GitHub, Google Colab (for GPU compute), LaTeX <br>
 Infra: Azure, APIs, GitHub Actions<br>
 
