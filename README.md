@@ -29,11 +29,6 @@
 ---
 
 <br>
-Supervised Learning & Statistical Modeling: LASSO, Ridge, Elastic Net, Logistic Regression, LDA, ARIMA, Group Lasso,  etc <br>
-Dimensionality Reduction & Feature Analysis: PCA, UMAP, t-SNE, Spectral Embedding, MDS, NMF, Kernel PCA <br> 
-Unsupervised Learning & Clustering: KMeans++, Gaussian Mixture Models (GMM), Spectral Clustering, Hierarchical Clustering <br>   
-
-<br>
 Languages: Python, SQL, HTML, R, MATLAB  <br>
 Libraries: PyTorch, TensorFlow, scikit-learn, XGBoost, Numpy, Pandas, Statsmodels  <br>
 Visualization: Plotly, Matplotlib, Seaborn, Streamlit  <br>
