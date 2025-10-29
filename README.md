@@ -15,7 +15,7 @@
 
 | Project | Summary |
 |-----------|------------|
-| [`self-instruct-gpt4mini`](https://github.com/dimitris-markopoulos/self-instruct-gpt4mini) | Finetune LLM by bootstraping off its own generated {instruction: answer} data; prompt engineering + openAI api |
+| [`self-instruct-gpt4mini`](https://github.com/dimitris-markopoulos/self-instruct-gpt4mini) | Finetune LLM by bootstraping off its own generated {instruction: answer} data; prompt engineering + OpenAI api |
 | [`xrt-trading-case-study`](https://dimitris-markopoulos.github.io/xrt-trading-case-study/report.html) | Built and backtested deviation- and volatility-based trading strategies on XRT, analyzing hit rates, Sharpe ratios, and robustness, concluding no persistent alpha after risk adjustments. |
 | [`mnist-image-classification`](https://github.com/dimitris-markopoulos/mnist-image-classification) | Comparing Lasso, Naive Bayes, Ridge, SVM, and Group Lasso |
 | [`tcga-brca-analysis`](https://dimitris-markopoulos.github.io/tcga-brca-analysis/) | Unsupervised analysis of TCGA Breast Cancer (BRCA) gene-expression data |
