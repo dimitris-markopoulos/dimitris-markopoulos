@@ -16,6 +16,7 @@
 | Project | Summary |
 |-----------|------------|
 | [`financial-graphical-models`](https://dimitris-markopoulos.github.io/financial-graphical-models/) | Sparse graphical models on equity returns for risk modeling |
+| [`regime-detection`](https://dimitris-markopoulos.github.io/macro-regime-detection/report.pdf) | Unsupervised market regime detection using high-dimensional macro indicators. |
 | [`self-instruct-gpt4mini`](https://dimitris-markopoulos.github.io/self-instruct-gpt4mini/) | Finetune LLM by bootstraping off its own generated {instruction: answer} data; prompt engineering + OpenAI api |
 | [`xrt-trading-case-study`](https://dimitris-markopoulos.github.io/xrt-trading-case-study/report.html) | Built and backtested deviation- and volatility-based trading strategies on XRT, analyzing hit rates, Sharpe ratios, and robustness, concluding no persistent alpha after risk adjustments. |
 | [`mnist-image-classification`](https://github.com/dimitris-markopoulos/mnist-image-classification) | Comparing Lasso, Naive Bayes, Ridge, SVM, and Group Lasso |
