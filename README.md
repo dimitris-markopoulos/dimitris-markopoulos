@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Dimitris Markopoulos' Github</h1>
+<h1 align="center">Dimitris Markopoulos' GitHub</h1>
 
 🎓 M.A. in **Statistics** at **Columbia University** (4.20/4.33)  
 🎓 B.S. in **Applied Mathematics & Statistics** from **Stony Brook University** (3.99/4.0) 
@@ -15,7 +15,7 @@
 |-----------|------------|
 | [`financial-graphical-models`](https://dimitris-markopoulos.github.io/financial-graphical-models/) | Sparse graphical models on equity returns for risk modeling |
 | [`regime-detection`](https://github.com/dimitris-markopoulos/regime-detection/blob/main/docs/report.pdf) | Unsupervised market regime detection using high-dimensional macro indicators. |
-| [`self-instruct-gpt4mini`](https://dimitris-markopoulos.github.io/self-instruct-gpt4mini/) | Finetune LLM by bootstraping off its own generated {instruction: answer} data; prompt engineering + OpenAI api |
+| [`self-instruct-gpt4mini`](https://dimitris-markopoulos.github.io/self-instruct-gpt4mini/) | Finetune LLM by bootstrapping off its own generated {instruction: answer} data; prompt engineering + OpenAI API |
 | [`xrt-trading-case-study`](https://dimitris-markopoulos.github.io/xrt-trading-case-study/report.html) | Built and backtested deviation- and volatility-based trading strategies on XRT, analyzing hit rates, Sharpe ratios, and robustness, concluding no persistent alpha after risk adjustments. |
 | [`mnist-image-classification`](https://github.com/dimitris-markopoulos/mnist-image-classification) | Comparing Lasso, Naive Bayes, Ridge, SVM, and Group Lasso |
 | [`tcga-brca-analysis`](https://dimitris-markopoulos.github.io/tcga-brca-analysis/) | Unsupervised analysis of TCGA Breast Cancer (BRCA) gene-expression data |
@@ -45,4 +45,3 @@ dimitris.markopoulos@columbia.edu
 
 > *"Averaged over all possible data-generating distributions, every classification algorithm has the same error rate."<br>
 — David H. Wolpert, No Free Lunch Theorems for Optimization*
-
